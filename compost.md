@@ -79,8 +79,8 @@ A compost pile or bin allows you to control:
 ---
 
 # What is needed to make compost?
-      <style>.left-column
-        - Microorganisms (mainly bacteria and fungi) that do all the work for you.</style>
+      .left-column
+        - Microorganisms (mainly bacteria and fungi) that do all the work for you.
 .right-column
 ![Image](../images/palletbin2.jpg)
 
